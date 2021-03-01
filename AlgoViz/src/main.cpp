@@ -8,8 +8,8 @@ void DrawGridRect(int width, int height, int boxSize, Vector2 mousePos);
 
 int main(void)
 {
-	const int screenWidth = 600;
-	const int screenHeight = 600;
+	const int screenWidth = 800;
+	const int screenHeight = 800;
 
 	InitWindow(screenWidth, screenHeight, "raylib [core] example - basic window");
 
