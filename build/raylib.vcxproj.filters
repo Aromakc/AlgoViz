@@ -48,6 +48,9 @@
     <ClInclude Include="..\raylib\src\uwp_events.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="physac.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\raylib\src\core.c">

@@ -183,6 +183,7 @@
     <ClInclude Include="..\raylib\src\rnet.h" />
     <ClInclude Include="..\raylib\src\utils.h" />
     <ClInclude Include="..\raylib\src\uwp_events.h" />
+    <ClInclude Include="physac.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\raylib\src\core.c" />
